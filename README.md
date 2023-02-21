@@ -1,2 +1,2 @@
 # 14-CS-SqlHelper
-SqlHelper file.
+Only SqlHelper file.
